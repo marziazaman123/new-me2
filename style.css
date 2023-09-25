@@ -1,0 +1,126 @@
+*{
+ font-family: work sans;
+}
+
+.contrary{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    
+}
+
+button{
+    background-color: rgb(231, 101, 15);
+    color: white;
+    border-radius: 4px;
+    border-style: none;
+    margin-top: 10px;
+    padding: 15px ;
+    font-size: 14px;
+    
+}
+
+div>ul>li{
+    list-style: none;
+    font-size: 12px;
+    
+  
+}
+
+header{
+    background-image: url('../images/banner1.png') ;
+    background-repeat: no-repeat;
+    padding-top: 100px;
+    padding-bottom: 200px;
+    padding-left: 600px;
+    padding-right: 150px;
+}
+
+.content{
+    display: flex;
+    gap: 40px;
+    justify-content: space-around;
+    margin-bottom: 100px;
+    align-items: center;
+    
+}
+
+.whatever{
+    align-items: center;
+    justify-content: center;
+}
+
+.div1{
+    text-align: end;
+    align-items: end;
+
+}
+
+.h1-container{
+    text-align: center;
+    
+}
+
+main{
+    margin: 50px;
+    padding: 95px;
+}
+
+.some{
+    align-items: first baseline;
+    text-align: left;
+
+}
+
+.tutu{
+    background-color: white;
+    color: rgb(237, 105, 29);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 1px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.kaka{
+    background-image:linear-gradient(90deg, rgba(245,87,6,0.8413447890170784) 16%, rgba(244,98,2,0.15239130064498552) 46%, rgba(246,248,251,0.007042463435683155) 100%), url('../images/watch1.png');
+    padding-top: 20px;
+    padding-bottom: 40px;
+    padding-left: 50px;
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    
+}
+
+
+.pp{
+    width: 400px;
+    font-size: 12px;
+    line-height: 22px;
+}
+
+.foot{
+    background-color: rgb(28, 28, 28);
+    color: white;
+    padding: 80px 140px 80px 140px;
+    
+    display: flex;
+    justify-content: space-between;
+
+    align-items: first baseline;
+    
+}
+
+.icon{
+    display: flex;
+    
+    gap: 8px;
+    align-items: first baseline;
+    
+}
+
+.banner{
+    color: #737272;
+}
